@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\bin\Debug\RaisingADegree.exe.config
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\bin\Debug\RaisingADegree.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\bin\Debug\RaisingADegree.pdb
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\obj\Debug\RaisingADegree.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\obj\Debug\RaisingADegree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\obj\Debug\RaisingADegree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\obj\Debug\RaisingADegree.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\RaisingADegree\obj\Debug\RaisingADegree.pdb

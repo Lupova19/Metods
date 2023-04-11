@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\bin\Debug\IntegerSign.exe.config
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\bin\Debug\IntegerSign.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\bin\Debug\IntegerSign.pdb
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\obj\Debug\IntegerSign.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\obj\Debug\IntegerSign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\obj\Debug\IntegerSign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\obj\Debug\IntegerSign.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\IntegerSign\obj\Debug\IntegerSign.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\TemperatureConverter\obj\Debug\TemperatureConverter.pdb

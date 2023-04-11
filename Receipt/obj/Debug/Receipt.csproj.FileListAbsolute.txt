@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\bin\Debug\Receipt.exe.config
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\bin\Debug\Receipt.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\bin\Debug\Receipt.pdb
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\obj\Debug\Receipt.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\obj\Debug\Receipt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\obj\Debug\Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\obj\Debug\Receipt.exe
+C:\Users\Admin\Desktop\Lupova19\Metods\Receipt\obj\Debug\Receipt.pdb
